@@ -1,0 +1,23 @@
+According to Nick Diakopoulos the top 5 programing languages are: 1. Java; 2.C++ 3.C; 4. Python; 5. PHP
+(http://codeforgeek.com/2014/09/top-10-programming-languages/)
+
+How similar are they to C#? How do they differ from C#?
+1.Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++.
+Differences- C# supports unsigned integers where Java does not. C# allows value/primitive/simple types to be "lifted" where Java does not.
+
+2. C++
+C# is a high level language that is component oriented, where C++ is a low level and platform neutral programming language. In C# memory management is automatically handled by garbage collector, where in C++ it has to be deleted explicitly.
+They are similar in the syntax and C# delegates are roughly similar to function pointers in C++, they are type-safe and secure.
+
+3. C
+C is structured language whereas C# is object oriented. C# is better for mass software production and C is faster but takes time to develop software.
+Both languages use garbage-collection and both are “curly based languages”-which is the main similarity between them.
+
+4. Python
+Python is winner in: ease of learning, cross platform development, availability of open source libraries.
+C# is winner in: standard library, language features, development process and tools, performance, language evolution speed.
+They are roughly even in their syntax (Python is better in readability, C# has more consistent syntax).
+
+5. PHP
+PHP can run on ANY platform, C# can natively only run on Windows driven platforms. PHP is SIMPLER to learn and use than C# will ever be.
+PHP and C# have same syntax.
